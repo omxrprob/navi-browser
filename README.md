@@ -31,4 +31,7 @@ that below is the logo if anyone wants it
 <img src="betterlogo.png">
 
 # DISCLAIMER:
-### so, navi is probably gonna get an update which is gonna make it closed-sourced, so you can see the source code, BUT, you can still use thai version if you want. you can see the link to the new version below(if its not there, we arent dont making it.)
+### so, navi is probably gonna get an update which is gonna make it closed-sourced, so you can see the source code, BUT, you can still use thai version if you want. you can see the link to the new version below(if its not there, we arent done making it.)
+
+
+this part is honestly not necessery but ill add it anyways. wait nvm, i got dinner. ill finish this later
